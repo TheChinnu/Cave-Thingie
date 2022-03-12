@@ -22,9 +22,9 @@ class Security {
         this.access3.position(100,290);
         this.access3.style('background', 'white');  
 
-        // this.button3 = createButton('Check');
-        // this.button3.position(100,320);
-        // this.button3.style('background', 'lightgrey');
+         this.button3 = createButton('Check');
+         this.button3.position(100,320);
+         this.button3.style('background', 'lightgrey');
         
         // this.button3 = createInput('Check');
         // this.button3.position(100,320);
